@@ -1,6 +1,4 @@
-# 战国七雄
-
-## 快点 点餐小程序
+##快点 点餐小程序
 
 ### 团队组建
 
@@ -49,7 +47,23 @@
 
 ### UML
 
-* [use case](https://github.com/SevenKingdoms/Dashboard/blob/master/uml/uml_use_case.png)
+* [用例文本]()
+* [用例图](https://github.com/SevenKingdoms/Dashboard/blob/master/uml/uml_use_case.png)
 
 
+### 成员技术博客
+
+[Ngnix配置](https://isanbel.github.io/2018/04/15/Nginx%E9%85%8D%E7%BD%AESSL%E8%AF%81%E4%B9%A6/) by 张园园
+
+[张彬熠](https://blog.csdn.net/qq_35923783/article/details/79955278)
+
+[张毅超]( https://sasakiyori.github.io/2018/04/12/SAD-hw3.html)
+
+[梁杰富](www.zybuluo.com/zichuanyan/note/1113282)
+
+[张万康](https://blog.csdn.net/qq_34450066/article/details/79953803)
+
+[张益强](http://cyqiang.top/2018/04/15/systemHW3.html)
+
+[张应鸿](https://yinghongzhang.github.io/)
 
