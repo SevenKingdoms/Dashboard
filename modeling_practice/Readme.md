@@ -10,7 +10,7 @@
 4. XX业务或操作的状态图
 5. XX业务或操作的系统顺序图以及操作协议
 
-####建模者 #1
+#### 建模者 #1
 
 答案[链接](https://heskeybaozi.github.io/#/posts/lesson9)
 
