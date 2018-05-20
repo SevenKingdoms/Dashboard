@@ -6,10 +6,10 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1、[About](./documention/项目策划书(version).md)（项目规划）
+* 1、[About](./documention/项目策划书.md)（项目规划）
 * 2、[Team profile](./documention/团队组建.md)（团队组建）
 * 3、[Investigation](./documention/线上自助点餐小程序“快点”业务调研及可行性分析报告.md)（项目前期调研）
-* 4、[Vision](./documention/项目策划书(version).md)（项目愿景）
+* 4、[Vision](./documention/项目策划书.md)（项目愿景）
 * 5、[Product Backlog](./documention/产品特性.md) （产品特性）
 * 6、Requirement specification（需求规格说明）
     - 6.1 [Usecase Diagram（用例图）](./uml/需求规格说明/用例图.md)
