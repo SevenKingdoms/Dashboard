@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 项目策划书
 
 <!-- more -->
