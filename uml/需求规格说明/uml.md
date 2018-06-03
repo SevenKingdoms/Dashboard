@@ -1,17 +1,17 @@
-# �ͼ
+﻿# 活动图
 <a name="umlcase"></a>
 ![](./../uml_images/uml_activity.jpg)
 
-# ����ģ��
+# 领域模型
 ![](./../uml_images/uml_domainModel.jpg)
 
-# ϵͳ˳��ͼ
+# 系统顺序图
 ![](./../uml_images/uml_sequence.jpg)
 
-# ����ͼ
+# 用例图
 ![](./../uml_images/uml_use_case.png)
 
-# ״̬ģ��
+# 状态模型
 ![](./../uml_images/uml_state.jpg)
 
 
