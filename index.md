@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -12,7 +12,7 @@ layout: default
 * 4、[Vision](./documention/项目策划书.md)（项目愿景）
 * 5、[Product Backlog](./documention/产品特性.md) （产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 [Usecase Diagram（用例图）](./uml/需求规格说明/用例图.md)
+    - 6.1 [Usecase Diagram（用例图）](./uml/需求规格说明/uml.md#usecase)
     - 6.2 [Use Cases（用例+活动图）](./uml/需求规格说明/活动图.md)
       - [用例](./uml/用例.md)
     - 6.3 [Domian Model（领域模型）](./uml/需求规格说明/领域模型.md)
