@@ -9,8 +9,8 @@ width: 150%;
 <a name="usecasediagram"></a>
 ![](./../uml_images/uml_use_case.png)
 
-# 用例
 <a name="usecase"></a>
+# 用例
 ### 系统边界
 扫码点餐系统（包括用户界面以及后台商家管理界面）是要被设计的系统
 除此以外，如支付服务等是系统边界之外的。
@@ -24,7 +24,6 @@ width: 150%;
 5. 管理员进入订单管理界面，查看订单详情并选择更新订单状态，厨房收到订单信息后备菜
 
 # Casul用例和Full用例
-<a name="detailusecase"></a>
 ### Casual 用例
 
 1. 扫码点餐
@@ -127,18 +126,18 @@ b. 管理员在任意时刻修改订单状态
 * 前台可否支持信用卡/刷卡等支付方式？
 * 点餐系统和厨房等等的衔接方式如何做到更加方便迅速，准确无误？
 
-# 活动图
 <a name="activity"></a>
+# 活动图
 ![](./../uml_images/uml_activity.jpg)
 
-# 领域模型
 <a name="domain"></a>
+# 领域模型
 ![](./../uml_images/uml_domainModel.jpg)
 
-# 状态模型
 <a name="state"></a>
+# 状态模型
 ![](./../uml_images/uml_state.jpg)
 
-# 系统顺序图
 <a name="systemSequence"></a>
+# 系统顺序图
 ![](./../uml_images/uml_sequence.jpg)
