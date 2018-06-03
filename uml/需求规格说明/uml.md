@@ -1,4 +1,10 @@
-﻿# 活动图
+﻿<style type="text/css">
+.img {
+width: 150%;
+}
+
+</style>
+# 活动图
 ![](./../uml_images/uml_activity.jpg)
 
 # 领域模型
