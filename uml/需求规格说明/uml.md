@@ -1,5 +1,4 @@
 ﻿# 活动图
-<a name="umlcase"></a>
 ![](./../uml_images/uml_activity.jpg)
 
 # 领域模型
@@ -12,6 +11,7 @@
 ![](./../uml_images/uml_use_case.png)
 
 # 状态模型
+<a name="usecase"></a>
 ![](./../uml_images/uml_state.jpg)
 
 
