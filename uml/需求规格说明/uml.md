@@ -1,6 +1,6 @@
 ﻿<style type="text/css">
 img {
-width: 150%;
+max-width: 150%;
 }
 
 </style>
