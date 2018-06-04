@@ -25,7 +25,7 @@ layout: default
         - 7.2.1 用户及权限系统数据库设计
         - 7.2.2 XX子系统数据库设计 
         - 7.2.x 第三方数据评审结果
-    - **7.3 API 设计**
+    - 7.3 [API 设计](https://bee2077.docs.apiary.io/#reference/0/foods)
 * 8、生产规范与指南
     - 8.1 [XX 代码规范](./code_style/README.md)
     - 8.2 REST API 设计规范
