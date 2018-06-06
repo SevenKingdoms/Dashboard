@@ -138,7 +138,3 @@ b. 管理员在任意时刻修改订单状态
 <a name="state"></a>
 # 状态模型
 ![](./uml_images/uml_state.jpg)
-
-<a name="systemSequence"></a>
-# 系统顺序图
-![](./uml_images/uml_sequence.jpg)
