@@ -39,7 +39,7 @@ layout: default
     - **8.3 逻辑架构到应用程序映射指南**
     - **8.4 物理架构云上部署 dock-compose.yml 文件编写与使用**
 * X1 meet_recording
-    - inception meeting (yy/mm/dd)
+    - [inception meeting (18/03/18)](./Meeting Records/inception meeting(180318).md)
 * X2 Tech/Work Report
     - [15331409-Nginx配置SSL证书](https://isanbel.github.io/2018/04/15/Nginx%E9%85%8D%E7%BD%AESSL%E8%AF%81%E4%B9%A6/)
     - [15331405-Vue学习](https://sasakiyori.github.io/2018/04/12/SAD-hw3.html)
