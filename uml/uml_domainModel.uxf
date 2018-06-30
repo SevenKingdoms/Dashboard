@@ -4,15 +4,16 @@
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>240</x>
-      <y>180</y>
-      <w>100</w>
-      <h>80</h>
+      <x>200</x>
+      <y>130</y>
+      <w>180</w>
+      <h>130</h>
     </coordinates>
     <panel_attributes>user
 --
 name
-avatar</panel_attributes>
+avatar
+phone number</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -221,14 +222,14 @@ has ^</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>150</x>
-      <y>210</y>
+      <y>180</y>
       <w>970</w>
-      <h>590</h>
+      <h>620</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=0..n
 m2=1
 generate &gt;</panel_attributes>
-    <additional_attributes>930.0;490.0;930.0;570.0;10.0;570.0;10.0;10.0;90.0;10.0</additional_attributes>
+    <additional_attributes>930.0;520.0;930.0;600.0;10.0;600.0;10.0;10.0;50.0;10.0</additional_attributes>
   </element>
 </diagram>
