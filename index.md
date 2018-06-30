@@ -17,7 +17,8 @@ layout: default
       - [用例](./uml/uml.md#usecase)
     - 6.3 [Domian Model（领域模型）](./uml/uml.md#domain)
     - 6.4 [State Model（状态模型）](./uml/uml.md#state)
-    - **6.5 [System Sequence Diagram（功能模型）](./uml/uml_sequence_exercise/uml_sequence_exercise.md)**
+    - 6.5 [System Sequence Diagram（功能模型）](./uml/uml_sequence_exercise/uml_sequence_exercise.md)
+    - 6.6 [Supplementary Requirements（补充需求）]()
 * 7、Design（设计）
     - 7.1 UI design
         - [用例 UI设计](https://modao.cc/app/Y8tEwwdfS6TUp1M6gYnSVCllIQPXPxN)
@@ -26,14 +27,19 @@ layout: default
         - 7.2.2 [订餐系统数据库设计](./uml/database.md)
         - 7.2.x 第三方数据评审结果
     - 7.3 [API 设计](https://bee2077.docs.apiary.io/#reference/0/foods)
+    - 7.4 Software Architecture Document
+    - 7.5 Usecase design
+        - 7.5.1 **xx case design**
 * 8、生产规范与指南
     - 8.1 编码规范
       - [Go编码规范](./code_style/Go编码规范.md)
       - [小程序编码规范](./code_style/快点点餐小程序前端编码规范.md)
       - [商家前端开发规范](./code_style/前端开发规范.md)
     - 8.2 [REST API 设计规范](https://bee2077.docs.apiary.io/#reference/0/foods) 
+    - **8.3 逻辑架构到应用程序映射指南**
+    - **8.4 物理架构云上部署 dock-compose.yml 文件编写与使用**
 * X1 meet_recording
-    - [inception meeting (18/03/18)](./Meeting Records/inception meeting(180318).md)
+    - [inception meeting (18/03/18)](./meeting_records/inception_meeting(180318).md)
 * X2 Tech/Work Report
     - [15331409-Nginx配置SSL证书](https://isanbel.github.io/2018/04/15/Nginx%E9%85%8D%E7%BD%AESSL%E8%AF%81%E4%B9%A6/)
     - [15331405-Vue学习](https://sasakiyori.github.io/2018/04/12/SAD-hw3.html)
