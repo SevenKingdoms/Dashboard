@@ -29,15 +29,15 @@ layout: default
     - 7.3 [API 设计](https://bee2077.docs.apiary.io/#reference/0/foods)
     - 7.4 [Software Architecture Document](./documention/软件架构文档.md)
     - 7.5 Usecase design
-        - 7.5.1 **xx case design**
+        - 7.5.1 [点餐用例详情](./uml/uml_usecase_detailed/detailed.md)
 * 8、生产规范与指南
     - 8.1 编码规范
       - [Go编码规范](./code_style/Go编码规范.md)
       - [小程序编码规范](./code_style/快点点餐小程序前端编码规范.md)
       - [商家前端开发规范](./code_style/前端开发规范.md)
     - 8.2 [REST API 设计规范](https://bee2077.docs.apiary.io/#reference/0/foods) 
-    - **8.3 逻辑架构到应用程序映射指南**
-    - **8.4 物理架构云上部署 dock-compose.yml 文件编写与使用**
+    - 8.3 [逻辑架构到应用程序映射指南](./documention/逻辑架构.md)
+    - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用](index.md)
 * 个人总结（学号+github名字命名）
     * [15331407_YinghongZhang](./final_report/1531407-YinghongZhang.md)
     * [15331182](./final_report/15331182.md)

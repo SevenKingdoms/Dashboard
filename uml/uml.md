@@ -129,12 +129,12 @@ b. 管理员在任意时刻修改订单状态
 
 <a name="activity"></a>
 # 活动图
-![](./uml_images/uml_activity.jpg)
+![](./uml_images/good/uml_activity.jpg)
 
 <a name="domain"></a>
 # 领域模型
-![](./uml_images/uml_domainModel.jpg)
+![](./uml_images/good/uml_domainModel.jpg)
 
 <a name="state"></a>
 # 状态模型
-![](./uml_images/uml_state.jpg)
+![](./uml_images/good/uml_state.jpg)
