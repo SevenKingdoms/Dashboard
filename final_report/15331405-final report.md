@@ -27,12 +27,15 @@
 
 ### 3. 个人分支的git报告
 - 商家前端(Merchant)
+
 ![vue.js前端](images/15331405-1.png)
 
 - Dashboard
+
 ![Dashboard](images/15331405-2.png)
 
 - github贡献格子图
+
 ![Contribution](images/15331405-3.png)
 
 
@@ -47,5 +50,3 @@
 
 ### 5. 个人技术、博客类清单
 - [vue.js初步学习](https://sasakiyori.github.io/2018/04/12/SAD-hw3.html)
-- 
-
