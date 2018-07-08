@@ -34,13 +34,18 @@
 
 ![Dashboard](images/15331405-2.png)
 
+- 最终文档(Document)
+
+![Document](images/15331405-3.png)
+
 - github贡献格子图
 
-![Contribution](images/15331405-3.png)
+![Contribution](images/15331405-4.png)
 
 
 ### 4. 个人工作清单
 - 参与API设计讨论、定型
+- 完成商家端设计文档
 - **使用vue.js完成web端商家后台**
 	- 完成登录界面
 	- 完成商家信息、商家菜单等商家类界面
