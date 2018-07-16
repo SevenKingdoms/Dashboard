@@ -8,6 +8,11 @@ max-width: 150%;
 <a name="usecasediagram"></a>
 
 # 用例图
+
+<img src="./uml_images/uml_use_case.png" style="width:200%; height:200%"/>
+
+
+
 ![](.//uml_images/uml_use_case.png)
 
 <a name="usecase"></a>
