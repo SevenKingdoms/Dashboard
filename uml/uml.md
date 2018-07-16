@@ -9,10 +9,6 @@ max-width: 150%;
 
 # 用例图
 
-<img src="./uml_images/uml_use_case.png" style="width:1200px; height:600px"/>
-
-
-
 ![](.//uml_images/uml_use_case.png)
 
 <a name="usecase"></a>
